@@ -28,5 +28,9 @@ In this game, you will have to guess a 5-letters formed word in french. But be c
 If you enter a well-formed word that contains at least one correct letter, the game will provide hints.
 Be ready, this is not an easy game !
 
+### Accessibility
+
+Once you're in the game screen, refresh the page to display a button that enables the virtual keyboard.
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
